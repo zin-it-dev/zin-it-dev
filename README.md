@@ -4,7 +4,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=losertowinner&theme=oldie)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zin-it-dev&theme=oldie)
 
 ## 🎈 Languages and Tools:
 
@@ -61,10 +61,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=losertowinner&show_icons=true&theme=transparent" alt="Stats Github" />
+      <img src="https://github-readme-stats.vercel.app/api?username=zin-it-dev&show_icons=true&theme=transparent" alt="Stats Github" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=losertowinner&layout=pie&theme=transparent" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zin-it-dev&layout=pie&theme=transparent" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
