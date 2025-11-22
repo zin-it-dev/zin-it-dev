@@ -1,10 +1,9 @@
 <div align="center">
-  <img height="150" src="./assets.png" style="border-radius: 50%; margin-bottom: 15px;"  />
-  
+  <h1>Hey, bro 👋</h1>
+  <p align="center">Don't forget to star my repositories and follow me!</p>
+
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zin.it.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zin.0.1.0.4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zin-it-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zin.it.dev@gmail.com) 
 </div>
-
-<p align="center">Don't forget to star my repositories and follow me!</p>
 
 <h2 align="left">💻 Tech Stack</h3>
 
