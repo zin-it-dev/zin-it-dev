@@ -4,7 +4,7 @@
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zin.it.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zin.0.1.0.4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zin-it-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zin.it.dev@gmail.com) 
 </div>
 
-<h2 align="left">💻 Tech Stack</h3>
+<h2 align="center">💻 Tech Stack 💻</h3>
 
 ###
 
@@ -73,6 +73,41 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+<br />
+
+<h2 align="center">🏆 GITHUB TROPHIES 🏆</h2>
+<p align="center">
+  <a href="https://github.com/zin-it-dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=zin-it-dev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=zin-it-dev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=zin-it-dev&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>GITHUB STATS</strong></h3>
+      <p align="center">
+        <a href="https://github.com/zin-it-dev">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=zin-it-dev&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>STREAK STATS</strong></h3>
+      <p align="center">
+        <a href="https://github.com/zin-it-dev">
+          <img align="center" src="https://streak-stats.demolab.com?user=zin-it-dev&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
 ###
 
